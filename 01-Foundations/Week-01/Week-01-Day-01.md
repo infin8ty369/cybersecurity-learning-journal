@@ -1,7 +1,7 @@
 # Week 1 Day 1 — Mac Setup and First Course Commit
 
 ## Date
-May 17, 2026
+May 18, 2026
 
 ## Goal
 Set up my Mac for the cybersecurity career course and connect my local machine to my GitHub learning journal.
