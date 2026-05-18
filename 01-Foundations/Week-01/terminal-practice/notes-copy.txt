@@ -1,0 +1,3 @@
+Today I am practicing terminal fundamentals.
+pwd means print working directory.
+cd means change directory.

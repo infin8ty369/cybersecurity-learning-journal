@@ -1,0 +1,6 @@
+Today I am practicing terminal fundamentals.
+pwd means print working directory.
+cd means change directory.
+grep searches inside text.
+find searches for files and folders.
+Git tracks changes in my projects.
